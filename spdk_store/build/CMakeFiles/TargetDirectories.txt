@@ -1,0 +1,3 @@
+/home/qjt/my_dpdk/spdk_store/build/CMakeFiles/edit_cache.dir
+/home/qjt/my_dpdk/spdk_store/build/CMakeFiles/rebuild_cache.dir
+/home/qjt/my_dpdk/spdk_store/build/CMakeFiles/spdk_store.dir

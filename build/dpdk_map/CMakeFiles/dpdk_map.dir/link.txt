@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdpdk_map.a  CMakeFiles/dpdk_map.dir/dpdk_map.cpp.o
+/usr/bin/ranlib libdpdk_map.a

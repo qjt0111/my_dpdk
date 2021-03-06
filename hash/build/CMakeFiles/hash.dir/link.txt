@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhash.a  CMakeFiles/hash.dir/cuckoo.o CMakeFiles/hash.dir/hash.o
+/usr/bin/ranlib libhash.a

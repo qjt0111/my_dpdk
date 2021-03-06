@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qjt/my_dpdk/hash/cuckoo.c
+cuckoo.h
+/home/qjt/my_dpdk/hash/cuckoo.h
+
+/home/qjt/my_dpdk/hash/cuckoo.h
+
+/home/qjt/my_dpdk/hash/hash.c
+

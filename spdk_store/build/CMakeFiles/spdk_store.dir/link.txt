@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspdk_store.a  CMakeFiles/spdk_store.dir/spdk_store.o
+/usr/bin/ranlib libspdk_store.a

@@ -1,0 +1,12 @@
+/home/qjt/my_dpdk/build/CMakeFiles/rebuild_cache.dir
+/home/qjt/my_dpdk/build/CMakeFiles/edit_cache.dir
+/home/qjt/my_dpdk/build/CMakeFiles/dpdk_hello.dir
+/home/qjt/my_dpdk/build/hash/CMakeFiles/rebuild_cache.dir
+/home/qjt/my_dpdk/build/hash/CMakeFiles/edit_cache.dir
+/home/qjt/my_dpdk/build/hash/CMakeFiles/hash.dir
+/home/qjt/my_dpdk/build/crc32/CMakeFiles/rebuild_cache.dir
+/home/qjt/my_dpdk/build/crc32/CMakeFiles/edit_cache.dir
+/home/qjt/my_dpdk/build/crc32/CMakeFiles/crc_key.dir
+/home/qjt/my_dpdk/build/dpdk_map/CMakeFiles/rebuild_cache.dir
+/home/qjt/my_dpdk/build/dpdk_map/CMakeFiles/edit_cache.dir
+/home/qjt/my_dpdk/build/dpdk_map/CMakeFiles/dpdk_map.dir

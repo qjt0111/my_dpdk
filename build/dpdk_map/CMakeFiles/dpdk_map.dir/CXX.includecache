@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qjt/my_dpdk/dpdk_map/dpdk_map.cpp
+iostream
+-
+vector
+-
+map
+-
+string
+-
+list
+-
+dpdk_map.h
+/home/qjt/my_dpdk/dpdk_map/dpdk_map.h
+pcap.h
+-
+my_dpdk.h
+/home/qjt/my_dpdk/dpdk_map/my_dpdk.h
+
+/home/qjt/my_dpdk/dpdk_map/dpdk_map.h
+sys/time.h
+-
+
